@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  puppeteer: ^3.1.1
+  puppeteer: any
   dio: ^4.0.6  
   easy_logger: ^0.0.2
   js: ^0.6.4
